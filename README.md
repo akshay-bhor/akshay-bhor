@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshay-bhor
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning nodejs, react, and vue js
+- 👀 I primarily work in web development
+- 🌱 Nodejs, React, Angular, VueJs, Python
 - 📫 How to reach me tw@akshaybhor123
 
 <!---
