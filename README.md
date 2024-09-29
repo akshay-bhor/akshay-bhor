@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshay-bhor
 - 👀 I primarily work in web development
-- 🌱 Nodejs, React, Angular, VueJs, Python
+- 🌱 Nodejs, React, Angular, VueJs, Python, Go
 
 <!---
 akshay-bhor/akshay-bhor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
